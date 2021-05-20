@@ -213,7 +213,9 @@ body {
 }
 
 .t-swipe3 {
-  background: rgb(255, 139, 93);
+  /* background: rgb(255, 139, 93); */
+  background: rgb(167, 110, 231);
+
 }
 
 .scrollmagic-pin-spacer {
